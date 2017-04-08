@@ -8,6 +8,7 @@ gem 'jquery-rails'
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.15'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+gem 'puma'
 gem 'rails', '4.2.7.1'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
