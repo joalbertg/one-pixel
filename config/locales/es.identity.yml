@@ -1,0 +1,12 @@
+es:
+  sessions:
+    new:
+      log_in: 'Iniciar Sesion'
+    create:
+      logged_in: 'Ha iniciado sesion correctamente.'
+      invalid_credentials: 'Datos invalidos.'
+    destroy:
+      logged_out: 'Ha cerrado sesion, regrese pronto.'
+  identities:
+    new:
+      create: 'Crear Cuenta'
